@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "14_slr_direct_train_v4_reg_cap",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Ostrava", "to_b": "Spišská Nová Ves", "route_time": "4 hod 13 min", "route_km": "272 km", "operating": "true", "over_under": "241 - 300 min", "route_min": 253.0, "pop15to64": "183178" }, "geometry": { "type": "Point", "coordinates": [ 18.262589, 49.8209043 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Olomouc", "to_b": "Spišská Nová Ves", "route_time": "5 hod 21 min", "route_km": "378 km", "operating": "true", "over_under": "301 - 360 min", "route_min": 321.0, "pop15to64": "62654" }, "geometry": { "type": "Point", "coordinates": [ 17.2502813, 49.5941647 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Pardubice", "to_b": "Spišská Nová Ves", "route_time": "6 hod 51 min", "route_km": "524 km", "operating": "true", "over_under": "361 - 420 min", "route_min": 411.0, "pop15to64": "57801" }, "geometry": { "type": "Point", "coordinates": [ 15.7811548, 50.0342989 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Praha", "to_b": "Spišská Nová Ves", "route_time": "8 hod", "route_km": "628 km", "operating": "true", "over_under": "421 - 480 min", "route_min": 480.0, "pop15to64": "869149" }, "geometry": { "type": "Point", "coordinates": [ 14.4377436, 50.075545299999987 ] } }
+]
+}
