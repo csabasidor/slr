@@ -1,0 +1,573 @@
+﻿var,y,dim,val_district_ann_agg,val_district_foreign_total,share_district_foreign,k_growth_coef,k_growth_coef_pct
+Počet návštevníkov spolu,2017,Liechtenstein,1,25616,0,NULL,NULL
+Počet návštevníkov spolu,2017,Estonia,35,25616,0.14,35,3400.00
+Počet návštevníkov spolu,2017,Albania,4,25616,0.02,0.114285714285714,-88.57
+Počet návštevníkov spolu,2017,Other African States,2,25616,0.01,0.5,-50.00
+Počet návštevníkov spolu,2017,Ukraine,377,25616,1.47,188.5,18750.00
+Počet návštevníkov spolu,2017,Slovenia,72,25616,0.28,0.190981432360743,-80.90
+Počet návštevníkov spolu,2017,Other American countries,10,25616,0.04,0.138888888888889,-86.11
+Počet návštevníkov spolu,2017,Singapore,4,25616,0.02,0.4,-60.00
+Počet návštevníkov spolu,2017,Australia,24,25616,0.09,6,500.00
+Počet návštevníkov spolu,2017,Canada,42,25616,0.16,1.75,75.00
+Počet návštevníkov spolu,2017,Luxembourg,1,25616,0,0.0238095238095238,-97.62
+Počet návštevníkov spolu,2017,Denmark,57,25616,0.22,57,5600.00
+Počet návštevníkov spolu,2017,Argentina,4,25616,0.02,0.0701754385964912,-92.98
+Počet návštevníkov spolu,2017,Belarus,63,25616,0.25,15.75,1475.00
+Počet návštevníkov spolu,2017,Serbia,83,25616,0.32,1.31746031746032,31.75
+Počet návštevníkov spolu,2017,Iceland,2,25616,0.01,0.0240963855421687,-97.59
+Počet návštevníkov spolu,2017,Saudi Arabia,1,25616,0,0.5,-50.00
+Počet návštevníkov spolu,2017,China,54,25616,0.21,54,5300.00
+Počet návštevníkov spolu,2017,United Kingdom,281,25616,1.1,5.2037037037037,420.37
+Počet návštevníkov spolu,2017,Other Asian States,11,25616,0.04,0.0391459074733096,-96.09
+Počet návštevníkov spolu,2017,Other European countries,79,25616,0.31,7.18181818181818,618.18
+Počet návštevníkov spolu,2017,United States,196,25616,0.77,2.48101265822785,148.10
+Počet návštevníkov spolu,2017,Greece,4,25616,0.02,0.0204081632653061,-97.96
+Počet návštevníkov spolu,2017,Russia,144,25616,0.56,36,3500.00
+Počet návštevníkov spolu,2017,Czechia,8048,25616,31.42,55.8888888888889,5488.89
+Počet návštevníkov spolu,2017,Croatia,37,25616,0.14,0.00459741550695825,-99.54
+Počet návštevníkov spolu,2017,Lithuania,223,25616,0.87,6.02702702702703,502.70
+Počet návštevníkov spolu,2017,Poland,4440,25616,17.33,19.9103139013453,1891.03
+Počet návštevníkov spolu,2017,Turkey,38,25616,0.15,0.00855855855855856,-99.14
+Počet návštevníkov spolu,2017,Malaysia,2,25616,0.01,0.0526315789473684,-94.74
+Počet návštevníkov spolu,2017,Romania,304,25616,1.19,152,15100.00
+Počet návštevníkov spolu,2017,Malta,3,25616,0.01,0.00986842105263158,-99.01
+Počet návštevníkov spolu,2017,Cyprus,2,25616,0.01,0.666666666666667,-33.33
+Počet návštevníkov spolu,2017,Austria,810,25616,3.16,405,40400.00
+Počet návštevníkov spolu,2017,Portugal,30,25616,0.12,0.037037037037037,-96.30
+Počet návštevníkov spolu,2017,Thailand,3,25616,0.01,0.1,-90.00
+Počet návštevníkov spolu,2017,Belgium,299,25616,1.17,99.6666666666667,9866.67
+Počet návštevníkov spolu,2017,India,2,25616,0.01,0.00668896321070234,-99.33
+Počet návštevníkov spolu,2017,Mexico,9,25616,0.04,4.5,350.00
+Počet návštevníkov spolu,2017,Germany,1775,25616,6.93,197.222222222222,19622.22
+Počet návštevníkov spolu,2017,Moldova,1,25616,0,0.000563380281690141,-99.94
+Počet návštevníkov spolu,2017,Israel,1048,25616,4.09,1048,104700.00
+Počet návštevníkov spolu,2017,Taiwan,3,25616,0.01,0.00286259541984733,-99.71
+Počet návštevníkov spolu,2017,Montenegro,3,25616,0.01,1,0.00
+Počet návštevníkov spolu,2017,Hungary,4811,25616,18.78,1603.66666666667,160266.67
+Počet návštevníkov spolu,2017,Switzerland,107,25616,0.42,0.0222406983995011,-97.78
+Počet návštevníkov spolu,2017,Bosnia and Herzegovina,9,25616,0.04,0.0841121495327103,-91.59
+Počet návštevníkov spolu,2017,Ireland,23,25616,0.09,2.55555555555556,155.56
+Počet návštevníkov spolu,2017,France,233,25616,0.91,10.1304347826087,913.04
+Počet návštevníkov spolu,2017,Netherlands,388,25616,1.51,1.66523605150215,66.52
+Počet návštevníkov spolu,2017,Latvia,48,25616,0.19,0.123711340206186,-87.63
+Počet návštevníkov spolu,2017,Sweden,245,25616,0.96,5.10416666666667,410.42
+Počet návštevníkov spolu,2017,New Zealand,9,25616,0.04,0.036734693877551,-96.33
+Počet návštevníkov spolu,2017,Japan,13,25616,0.05,1.44444444444444,44.44
+Počet návštevníkov spolu,2017,Brazil,251,25616,0.98,19.3076923076923,1830.77
+Počet návštevníkov spolu,2017,Italy,450,25616,1.76,1.79282868525896,79.28
+Počet návštevníkov spolu,2017,Finland,60,25616,0.23,0.133333333333333,-86.67
+Počet návštevníkov spolu,2017,Vietnam,2,25616,0.01,0.0333333333333333,-96.67
+Počet návštevníkov spolu,2017,Spain,60,25616,0.23,30,2900.00
+Počet návštevníkov spolu,2017,North Macedonia,4,25616,0.02,0.0666666666666667,-93.33
+Počet návštevníkov spolu,2017,United Arab Emirates,1,25616,0,0.25,-75.00
+Počet návštevníkov spolu,2017,South Korea,3,25616,0.01,3,200.00
+Počet návštevníkov spolu,2017,Norway,35,25616,0.14,11.6666666666667,1066.67
+Počet návštevníkov spolu,2017,Hong Kong,1,25616,0,0.0285714285714286,-97.14
+Počet návštevníkov spolu,2017,Bulgaria,40,25616,0.16,40,3900.00
+Počet návštevníkov spolu,2018,Netherlands,644,34008,1.89,16.1,1510.00
+Počet návštevníkov spolu,2018,Japan,25,34008,0.07,0.0388198757763975,-96.12
+Počet návštevníkov spolu,2018,India,17,34008,0.05,0.68,-32.00
+Počet návštevníkov spolu,2018,Austria,705,34008,2.07,41.4705882352941,4047.06
+Počet návštevníkov spolu,2018,Italy,572,34008,1.68,0.811347517730496,-18.87
+Počet návštevníkov spolu,2018,Indonesia,3,34008,0.01,0.00524475524475525,-99.48
+Počet návštevníkov spolu,2018,Israel,397,34008,1.17,132.333333333333,13133.33
+Počet návštevníkov spolu,2018,Ireland,31,34008,0.09,0.0780856423173804,-92.19
+Počet návštevníkov spolu,2018,Albania,39,34008,0.11,1.25806451612903,25.81
+Počet návštevníkov spolu,2018,United Arab Emirates,11,34008,0.03,0.282051282051282,-71.79
+Počet návštevníkov spolu,2018,Ukraine,502,34008,1.48,45.6363636363636,4463.64
+Počet návštevníkov spolu,2018,Belarus,53,34008,0.16,0.105577689243028,-89.44
+Počet návštevníkov spolu,2018,Turkey,37,34008,0.11,0.69811320754717,-30.19
+Počet návštevníkov spolu,2018,Thailand,3,34008,0.01,0.0810810810810811,-91.89
+Počet návštevníkov spolu,2018,Belgium,320,34008,0.94,106.666666666667,10566.67
+Počet návštevníkov spolu,2018,Taiwan,10,34008,0.03,0.03125,-96.88
+Počet návštevníkov spolu,2018,Switzerland,160,34008,0.47,16,1500.00
+Počet návštevníkov spolu,2018,Bosnia and Herzegovina,8,34008,0.02,0.05,-95.00
+Počet návštevníkov spolu,2018,Sweden,233,34008,0.69,29.125,2812.50
+Počet návštevníkov spolu,2018,Spain,210,34008,0.62,0.901287553648069,-9.87
+Počet návštevníkov spolu,2018,Brazil,287,34008,0.84,1.36666666666667,36.67
+Počet návštevníkov spolu,2018,South Korea,4,34008,0.01,0.0139372822299652,-98.61
+Počet návštevníkov spolu,2018,South Africa,7,34008,0.02,1.75,75.00
+Počet návštevníkov spolu,2018,Bulgaria,39,34008,0.11,5.57142857142857,457.14
+Počet návštevníkov spolu,2018,Slovenia,118,34008,0.35,3.02564102564103,202.56
+Počet návštevníkov spolu,2018,Canada,55,34008,0.16,0.466101694915254,-53.39
+Počet návštevníkov spolu,2018,Serbia,38,34008,0.11,0.690909090909091,-30.91
+Počet návštevníkov spolu,2018,Saudi Arabia,3,34008,0.01,0.0789473684210526,-92.11
+Počet návštevníkov spolu,2018,China,429,34008,1.26,143,14200.00
+Počet návštevníkov spolu,2018,Russia,146,34008,0.43,0.34032634032634,-65.97
+Počet návštevníkov spolu,2018,Croatia,48,34008,0.14,0.328767123287671,-67.12
+Počet návštevníkov spolu,2018,United States,244,34008,0.72,5.08333333333333,408.33
+Počet návštevníkov spolu,2018,Romania,143,34008,0.42,0.586065573770492,-41.39
+Počet návštevníkov spolu,2018,Qatar,2,34008,0.01,0.013986013986014,-98.60
+Počet návštevníkov spolu,2018,Portugal,34,34008,0.1,17,1600.00
+Počet návštevníkov spolu,2018,Cyprus,2,34008,0.01,0.0588235294117647,-94.12
+Počet návštevníkov spolu,2018,Poland,7520,34008,22.11,3760,375900.00
+Počet návštevníkov spolu,2018,Czechia,10729,34008,31.55,1.42672872340426,42.67
+Počet návštevníkov spolu,2018,Other European countries,35,34008,0.1,0.00326218659707335,-99.67
+Počet návštevníkov spolu,2018,Other Asian States,11,34008,0.03,0.314285714285714,-68.57
+Počet návštevníkov spolu,2018,Denmark,64,34008,0.19,5.81818181818182,481.82
+Počet návštevníkov spolu,2018,Other American countries,12,34008,0.04,0.1875,-81.25
+Počet návštevníkov spolu,2018,Other African States,1,34008,0,0.0833333333333333,-91.67
+Počet návštevníkov spolu,2018,Dominican Republic,10,34008,0.03,10,900.00
+Počet návštevníkov spolu,2018,Norway,25,34008,0.07,2.5,150.00
+Počet návštevníkov spolu,2018,Estonia,50,34008,0.15,2,100.00
+Počet návštevníkov spolu,2018,Australia,48,34008,0.14,0.96,-4.00
+Počet návštevníkov spolu,2018,North Macedonia,1,34008,0,0.0208333333333333,-97.92
+Počet návštevníkov spolu,2018,New Zealand,12,34008,0.04,12,1100.00
+Počet návštevníkov spolu,2018,Finland,33,34008,0.1,2.75,175.00
+Počet návštevníkov spolu,2018,Morocco,2,34008,0.01,0.0606060606060606,-93.94
+Počet návštevníkov spolu,2018,France,437,34008,1.28,218.5,21750.00
+Počet návštevníkov spolu,2018,Montenegro,3,34008,0.01,0.0068649885583524,-99.31
+Počet návštevníkov spolu,2018,Moldova,1,34008,0,0.333333333333333,-66.67
+Počet návštevníkov spolu,2018,Mexico,17,34008,0.05,17,1600.00
+Počet návštevníkov spolu,2018,Germany,2742,34008,8.06,161.294117647059,16029.41
+Počet návštevníkov spolu,2018,United Kingdom,329,34008,0.97,0.11998541210795,-88.00
+Počet návštevníkov spolu,2018,Malta,5,34008,0.01,0.0151975683890578,-98.48
+Počet návštevníkov spolu,2018,Malaysia,8,34008,0.02,1.6,60.00
+Počet návštevníkov spolu,2018,Greece,12,34008,0.04,1.5,50.00
+Počet návštevníkov spolu,2018,Luxembourg,5,34008,0.01,0.416666666666667,-58.33
+Počet návštevníkov spolu,2018,Lithuania,356,34008,1.05,71.2,7020.00
+Počet návštevníkov spolu,2018,Hungary,5719,34008,16.82,16.064606741573,1506.46
+Počet návštevníkov spolu,2018,Latvia,25,34008,0.07,0.00437139360027977,-99.56
+Počet návštevníkov spolu,2018,Kenya,1,34008,0,0.04,-96.00
+Počet návštevníkov spolu,2018,Iceland,3,34008,0.01,3,200.00
+Počet návštevníkov spolu,2019,Latvia,225,34457,0.65,75,7400.00
+Počet návštevníkov spolu,2019,Bulgaria,57,34457,0.17,0.253333333333333,-74.67
+Počet návštevníkov spolu,2019,Greece,17,34457,0.05,0.298245614035088,-70.18
+Počet návštevníkov spolu,2019,Estonia,72,34457,0.21,4.23529411764706,323.53
+Počet návštevníkov spolu,2019,Belarus,68,34457,0.2,0.944444444444444,-5.56
+Počet návštevníkov spolu,2019,South Africa,8,34457,0.02,0.117647058823529,-88.24
+Počet návštevníkov spolu,2019,North Macedonia,4,34457,0.01,0.5,-50.00
+Počet návštevníkov spolu,2019,Luxembourg,15,34457,0.04,3.75,275.00
+Počet návštevníkov spolu,2019,South Korea,38,34457,0.11,2.53333333333333,153.33
+Počet návštevníkov spolu,2019,New Zealand,23,34457,0.07,0.605263157894737,-39.47
+Počet návštevníkov spolu,2019,India,19,34457,0.06,0.826086956521739,-17.39
+Počet návštevníkov spolu,2019,Brazil,272,34457,0.79,14.3157894736842,1331.58
+Počet návštevníkov spolu,2019,Turkey,85,34457,0.25,0.3125,-68.75
+Počet návštevníkov spolu,2019,Finland,92,34457,0.27,1.08235294117647,8.24
+Počet návštevníkov spolu,2019,Australia,113,34457,0.33,1.22826086956522,22.83
+Počet návštevníkov spolu,2019,Spain,208,34457,0.6,1.84070796460177,84.07
+Počet návštevníkov spolu,2019,Netherlands,779,34457,2.26,3.74519230769231,274.52
+Počet návštevníkov spolu,2019,Japan,23,34457,0.07,0.0295250320924262,-97.05
+Počet návštevníkov spolu,2019,Sweden,213,34457,0.62,9.26086956521739,826.09
+Počet návštevníkov spolu,2019,Lithuania,250,34457,0.73,1.17370892018779,17.37
+Počet návštevníkov spolu,2019,Montenegro,2,34457,0.01,0.008,-99.20
+Počet návštevníkov spolu,2019,Bosnia and Herzegovina,47,34457,0.14,23.5,2250.00
+Počet návštevníkov spolu,2019,Ukraine,505,34457,1.47,10.7446808510638,974.47
+Počet návštevníkov spolu,2019,France,362,34457,1.05,0.716831683168317,-28.32
+Počet návštevníkov spolu,2019,United Kingdom,438,34457,1.27,1.20994475138122,20.99
+Počet návštevníkov spolu,2019,Italy,456,34457,1.32,1.04109589041096,4.11
+Počet návštevníkov spolu,2019,Switzerland,188,34457,0.55,0.412280701754386,-58.77
+Počet návštevníkov spolu,2019,Moldova,3,34457,0.01,0.0159574468085106,-98.40
+Počet návštevníkov spolu,2019,Ireland,74,34457,0.21,24.6666666666667,2366.67
+Počet návštevníkov spolu,2019,Taiwan,4,34457,0.01,0.0540540540540541,-94.59
+Počet návštevníkov spolu,2019,Mexico,25,34457,0.07,6.25,525.00
+Počet návštevníkov spolu,2019,Georgia,2,34457,0.01,0.08,-92.00
+Počet návštevníkov spolu,2019,Kazakhstan,2,34457,0.01,1,0.00
+Počet návštevníkov spolu,2019,Vietnam,1,34457,0,0.5,-50.00
+Počet návštevníkov spolu,2019,Hungary,6963,34457,20.21,6963,696200.00
+Počet návštevníkov spolu,2019,Portugal,15,34457,0.04,0.002154243860405,-99.78
+Počet návštevníkov spolu,2019,Germany,3837,34457,11.14,255.8,25480.00
+Počet návštevníkov spolu,2019,Cyprus,4,34457,0.01,0.00104248110502997,-99.90
+Počet návštevníkov spolu,2019,Poland,6776,34457,19.67,1694,169300.00
+Počet návštevníkov spolu,2019,Austria,708,34457,2.05,0.104486422668241,-89.55
+Počet návštevníkov spolu,2019,Croatia,54,34457,0.16,0.076271186440678,-92.37
+Počet návštevníkov spolu,2019,Romania,218,34457,0.63,4.03703703703704,303.70
+Počet návštevníkov spolu,2019,Belgium,523,34457,1.52,2.39908256880734,139.91
+Počet návštevníkov spolu,2019,Czechia,9930,34457,28.82,18.9866156787763,1798.66
+Počet návštevníkov spolu,2019,Russia,134,34457,0.39,0.0134944612286002,-98.65
+Počet návštevníkov spolu,2019,Other European countries,9,34457,0.03,0.0671641791044776,-93.28
+Počet návštevníkov spolu,2019,Indonesia,3,34457,0.01,0.333333333333333,-66.67
+Počet návštevníkov spolu,2019,Argentina,1,34457,0,0.333333333333333,-66.67
+Počet návštevníkov spolu,2019,Other Asian States,18,34457,0.05,18,1700.00
+Počet návštevníkov spolu,2019,Thailand,8,34457,0.02,0.444444444444444,-55.56
+Počet návštevníkov spolu,2019,China,262,34457,0.76,32.75,3175.00
+Počet návštevníkov spolu,2019,Canada,62,34457,0.18,0.236641221374046,-76.34
+Počet návštevníkov spolu,2019,Malaysia,1,34457,0,0.0161290322580645,-98.39
+Počet návštevníkov spolu,2019,Denmark,122,34457,0.35,122,12100.00
+Počet návštevníkov spolu,2019,Serbia,51,34457,0.15,0.418032786885246,-58.20
+Počet návštevníkov spolu,2019,Other American countries,6,34457,0.02,0.117647058823529,-88.24
+Počet návštevníkov spolu,2019,Israel,195,34457,0.57,32.5,3150.00
+Počet návštevníkov spolu,2019,Singapore,2,34457,0.01,0.0102564102564103,-98.97
+Počet návštevníkov spolu,2019,Other African States,48,34457,0.14,24,2300.00
+Počet návštevníkov spolu,2019,Tunisia,1,34457,0,0.0208333333333333,-97.92
+Počet návštevníkov spolu,2019,Slovenia,114,34457,0.33,114,11300.00
+Počet návštevníkov spolu,2019,Albania,36,34457,0.1,0.315789473684211,-68.42
+Počet návštevníkov spolu,2019,Dominican Republic,8,34457,0.02,0.222222222222222,-77.78
+Počet návštevníkov spolu,2019,United States,201,34457,0.58,25.125,2412.50
+Počet návštevníkov spolu,2019,Norway,45,34457,0.13,0.223880597014925,-77.61
+Počet návštevníkov spolu,2019,Egypt,2,34457,0.01,0.0444444444444444,-95.56
+Počet návštevníkov spolu,2020,Norway,2,14302,0.01,1,0.00
+Počet návštevníkov spolu,2020,Austria,267,14302,1.87,133.5,13250.00
+Počet návštevníkov spolu,2020,Belarus,3,14302,0.02,0.0112359550561798,-98.88
+Počet návštevníkov spolu,2020,Belgium,75,14302,0.52,25,2400.00
+Počet návštevníkov spolu,2020,Brazil,80,14302,0.56,1.06666666666667,6.67
+Počet návštevníkov spolu,2020,Bulgaria,29,14302,0.2,0.3625,-63.75
+Počet návštevníkov spolu,2020,Canada,7,14302,0.05,0.241379310344828,-75.86
+Počet návštevníkov spolu,2020,China,2,14302,0.01,0.285714285714286,-71.43
+Počet návštevníkov spolu,2020,Croatia,11,14302,0.08,5.5,450.00
+Počet návštevníkov spolu,2020,Czechia,5808,14302,40.61,528,52700.00
+Počet návštevníkov spolu,2020,Denmark,31,14302,0.22,0.00533746556473829,-99.47
+Počet návštevníkov spolu,2020,Estonia,44,14302,0.31,1.41935483870968,41.94
+Počet návštevníkov spolu,2020,Finland,9,14302,0.06,0.204545454545455,-79.55
+Počet návštevníkov spolu,2020,France,80,14302,0.56,8.88888888888889,788.89
+Počet návštevníkov spolu,2020,Germany,1729,14302,12.09,21.6125,2061.25
+Počet návštevníkov spolu,2020,Greece,3,14302,0.02,0.00173510699826489,-99.83
+Počet návštevníkov spolu,2020,Hungary,1428,14302,9.98,476,47500.00
+Počet návštevníkov spolu,2020,India,6,14302,0.04,0.00420168067226891,-99.58
+Počet návštevníkov spolu,2020,Indonesia,15,14302,0.1,2.5,150.00
+Počet návštevníkov spolu,2020,Ireland,11,14302,0.08,0.733333333333333,-26.67
+Počet návštevníkov spolu,2020,Israel,32,14302,0.22,2.90909090909091,190.91
+Počet návštevníkov spolu,2020,Italy,161,14302,1.13,5.03125,403.13
+Počet návštevníkov spolu,2020,Japan,1,14302,0.01,0.0062111801242236,-99.38
+Počet návštevníkov spolu,2020,Latvia,42,14302,0.29,42,4100.00
+Počet návštevníkov spolu,2020,Lithuania,85,14302,0.59,2.02380952380952,102.38
+Počet návštevníkov spolu,2020,Malta,5,14302,0.03,0.0588235294117647,-94.12
+Počet návštevníkov spolu,2020,Mexico,6,14302,0.04,1.2,20.00
+Počet návštevníkov spolu,2020,Netherlands,186,14302,1.3,31,3000.00
+Počet návštevníkov spolu,2020,New Zealand,2,14302,0.01,0.010752688172043,-98.92
+Počet návštevníkov spolu,2020,North Macedonia,2,14302,0.01,1,0.00
+Počet návštevníkov spolu,2020,Other American countries,4,14302,0.03,2,100.00
+Počet návštevníkov spolu,2020,Poland,3132,14302,21.9,783,78200.00
+Počet návštevníkov spolu,2020,Romania,39,14302,0.27,0.0124521072796935,-98.75
+Počet návštevníkov spolu,2020,Russia,40,14302,0.28,1.02564102564103,2.56
+Počet návštevníkov spolu,2020,Saudi Arabia,1,14302,0.01,0.025,-97.50
+Počet návštevníkov spolu,2020,Serbia,5,14302,0.03,5,400.00
+Počet návštevníkov spolu,2020,Slovenia,471,14302,3.29,94.2,9320.00
+Počet návštevníkov spolu,2020,Spain,8,14302,0.06,0.0169851380042463,-98.30
+Počet návštevníkov spolu,2020,Sweden,20,14302,0.14,2.5,150.00
+Počet návštevníkov spolu,2020,Switzerland,71,14302,0.5,3.55,255.00
+Počet návštevníkov spolu,2020,Thailand,2,14302,0.01,0.028169014084507,-97.18
+Počet návštevníkov spolu,2020,Turkey,6,14302,0.04,3,200.00
+Počet návštevníkov spolu,2020,Ukraine,169,14302,1.18,28.1666666666667,2716.67
+Počet návštevníkov spolu,2020,United Kingdom,73,14302,0.51,0.431952662721893,-56.80
+Počet návštevníkov spolu,2020,United States,17,14302,0.12,0.232876712328767,-76.71
+Počet návštevníkov spolu,2021,Israel,61,6911,0.88,3.58823529411765,258.82
+Počet návštevníkov spolu,2021,Estonia,15,6911,0.22,0.245901639344262,-75.41
+Počet návštevníkov spolu,2021,Latvia,84,6911,1.22,5.6,460.00
+Počet návštevníkov spolu,2021,Romania,17,6911,0.25,0.202380952380952,-79.76
+Počet návštevníkov spolu,2021,Norway,1,6911,0.01,0.0588235294117647,-94.12
+Počet návštevníkov spolu,2021,Ireland,10,6911,0.14,10,900.00
+Počet návštevníkov spolu,2021,Taiwan,2,6911,0.03,0.2,-80.00
+Počet návštevníkov spolu,2021,Belgium,55,6911,0.8,27.5,2650.00
+Počet návštevníkov spolu,2021,Austria,116,6911,1.68,2.10909090909091,110.91
+Počet návštevníkov spolu,2021,Denmark,26,6911,0.38,0.224137931034483,-77.59
+Počet návštevníkov spolu,2021,Other American countries,2,6911,0.03,0.0769230769230769,-92.31
+Počet návštevníkov spolu,2021,Brazil,6,6911,0.09,3,200.00
+Počet návštevníkov spolu,2021,Japan,2,6911,0.03,0.333333333333333,-66.67
+Počet návštevníkov spolu,2021,Switzerland,34,6911,0.49,17,1600.00
+Počet návštevníkov spolu,2021,Other Asian States,9,6911,0.13,0.264705882352941,-73.53
+Počet návštevníkov spolu,2021,United Kingdom,20,6911,0.29,2.22222222222222,122.22
+Počet návštevníkov spolu,2021,Czechia,2501,6911,36.19,125.05,12405.00
+Počet návštevníkov spolu,2021,Hungary,870,6911,12.59,0.347860855657737,-65.21
+Počet návštevníkov spolu,2021,Poland,1196,6911,17.31,1.37471264367816,37.47
+Počet návštevníkov spolu,2021,Germany,846,6911,12.24,0.707357859531773,-29.26
+Počet návštevníkov spolu,2021,Italy,113,6911,1.64,0.133569739952719,-86.64
+Počet návštevníkov spolu,2021,Sweden,5,6911,0.07,0.0442477876106195,-95.58
+Počet návštevníkov spolu,2021,Bosnia and Herzegovina,2,6911,0.03,0.4,-60.00
+Počet návštevníkov spolu,2021,Portugal,1,6911,0.01,0.5,-50.00
+Počet návštevníkov spolu,2021,Lithuania,89,6911,1.29,89,8800.00
+Počet návštevníkov spolu,2021,Mexico,1,6911,0.01,0.0112359550561798,-98.88
+Počet návštevníkov spolu,2021,Croatia,36,6911,0.52,36,3500.00
+Počet návštevníkov spolu,2021,Ukraine,57,6911,0.82,1.58333333333333,58.33
+Počet návštevníkov spolu,2021,Iceland,1,6911,0.01,0.0175438596491228,-98.25
+Počet návštevníkov spolu,2021,South Korea,1,6911,0.01,1,0.00
+Počet návštevníkov spolu,2021,United States,15,6911,0.22,15,1400.00
+Počet návštevníkov spolu,2021,Kazakhstan,4,6911,0.06,0.266666666666667,-73.33
+Počet návštevníkov spolu,2021,France,121,6911,1.75,30.25,2925.00
+Počet návštevníkov spolu,2021,Serbia,5,6911,0.07,0.0413223140495868,-95.87
+Počet návštevníkov spolu,2021,Russia,20,6911,0.29,4,300.00
+Počet návštevníkov spolu,2021,Spain,40,6911,0.58,2,100.00
+Počet návštevníkov spolu,2021,Netherlands,236,6911,3.41,5.9,490.00
+Počet návštevníkov spolu,2021,Turkey,2,6911,0.03,0.00847457627118644,-99.15
+Počet návštevníkov spolu,2021,Finland,8,6911,0.12,4,300.00
+Počet návštevníkov spolu,2021,Luxembourg,3,6911,0.04,0.375,-62.50
+Počet návštevníkov spolu,2021,Belarus,6,6911,0.09,2,100.00
+Počet návštevníkov spolu,2021,Bulgaria,10,6911,0.14,1.66666666666667,66.67
+Počet návštevníkov spolu,2021,Slovenia,23,6911,0.33,2.3,130.00
+Počet návštevníkov spolu,2021,North Macedonia,2,6911,0.03,0.0869565217391304,-91.30
+Počet prenocovaní návštevníkov spolu,2017,Austria,1863,67986,2.74,NULL,NULL
+Počet prenocovaní návštevníkov spolu,2017,Cyprus,10,67986,0.01,0.00536768652710682,-99.46
+Počet prenocovaní návštevníkov spolu,2017,Hong Kong,1,67986,0,0.1,-90.00
+Počet prenocovaní návštevníkov spolu,2017,Russia,944,67986,1.39,944,94300.00
+Počet prenocovaní návštevníkov spolu,2017,Poland,11590,67986,17.05,12.2775423728814,1127.75
+Počet prenocovaní návštevníkov spolu,2017,Brazil,1236,67986,1.82,0.106643658326143,-89.34
+Počet prenocovaní návštevníkov spolu,2017,Spain,108,67986,0.16,0.087378640776699,-91.26
+Počet prenocovaní návštevníkov spolu,2017,Sweden,980,67986,1.44,9.07407407407407,807.41
+Počet prenocovaní návštevníkov spolu,2017,Finland,145,67986,0.21,0.147959183673469,-85.20
+Počet prenocovaní návštevníkov spolu,2017,Israel,1436,67986,2.11,9.90344827586207,890.34
+Počet prenocovaní návštevníkov spolu,2017,Bosnia and Herzegovina,11,67986,0.02,0.00766016713091922,-99.23
+Počet prenocovaní návštevníkov spolu,2017,Vietnam,4,67986,0.01,0.363636363636364,-63.64
+Počet prenocovaní návštevníkov spolu,2017,Belarus,248,67986,0.36,62,6100.00
+Počet prenocovaní návštevníkov spolu,2017,Portugal,70,67986,0.1,0.282258064516129,-71.77
+Počet prenocovaní návštevníkov spolu,2017,Lithuania,441,67986,0.65,6.3,530.00
+Počet prenocovaní návštevníkov spolu,2017,Netherlands,1002,67986,1.47,2.27210884353741,127.21
+Počet prenocovaní návštevníkov spolu,2017,United Kingdom,770,67986,1.13,0.768463073852295,-23.15
+Počet prenocovaní návštevníkov spolu,2017,Greece,16,67986,0.02,0.0207792207792208,-97.92
+Počet prenocovaní návštevníkov spolu,2017,Mexico,32,67986,0.05,2,100.00
+Počet prenocovaní návštevníkov spolu,2017,Croatia,119,67986,0.18,3.71875,271.88
+Počet prenocovaní návštevníkov spolu,2017,Singapore,6,67986,0.01,0.0504201680672269,-94.96
+Počet prenocovaní návštevníkov spolu,2017,Argentina,9,67986,0.01,1.5,50.00
+Počet prenocovaní návštevníkov spolu,2017,Luxembourg,2,67986,0,0.222222222222222,-77.78
+Počet prenocovaní návštevníkov spolu,2017,Thailand,7,67986,0.01,3.5,250.00
+Počet prenocovaní návštevníkov spolu,2017,Canada,86,67986,0.13,12.2857142857143,1128.57
+Počet prenocovaní návštevníkov spolu,2017,Australia,52,67986,0.08,0.604651162790698,-39.53
+Počet prenocovaní návštevníkov spolu,2017,India,6,67986,0.01,0.115384615384615,-88.46
+Počet prenocovaní návštevníkov spolu,2017,Ukraine,1015,67986,1.49,169.166666666667,16816.67
+Počet prenocovaní návštevníkov spolu,2017,Turkey,128,67986,0.19,0.126108374384236,-87.39
+Počet prenocovaní návštevníkov spolu,2017,Norway,64,67986,0.09,0.5,-50.00
+Počet prenocovaní návštevníkov spolu,2017,Japan,35,67986,0.05,0.546875,-45.31
+Počet prenocovaní návštevníkov spolu,2017,Latvia,137,67986,0.2,3.91428571428571,291.43
+Počet prenocovaní návštevníkov spolu,2017,Albania,93,67986,0.14,0.678832116788321,-32.12
+Počet prenocovaní návštevníkov spolu,2017,Taiwan,4,67986,0.01,0.043010752688172,-95.70
+Počet prenocovaní návštevníkov spolu,2017,Slovenia,98,67986,0.14,24.5,2350.00
+Počet prenocovaní návštevníkov spolu,2017,United States,869,67986,1.28,8.86734693877551,786.73
+Počet prenocovaní návštevníkov spolu,2017,United Arab Emirates,1,67986,0,0.00115074798619102,-99.88
+Počet prenocovaní návštevníkov spolu,2017,Other African States,4,67986,0.01,4,300.00
+Počet prenocovaní návštevníkov spolu,2017,Moldova,3,67986,0,0.75,-25.00
+Počet prenocovaní návštevníkov spolu,2017,Iceland,5,67986,0.01,1.66666666666667,66.67
+Počet prenocovaní návštevníkov spolu,2017,Ireland,56,67986,0.08,11.2,1020.00
+Počet prenocovaní návštevníkov spolu,2017,Denmark,107,67986,0.16,1.91071428571429,91.07
+Počet prenocovaní návštevníkov spolu,2017,Estonia,51,67986,0.08,0.476635514018692,-52.34
+Počet prenocovaní návštevníkov spolu,2017,Belgium,748,67986,1.1,14.6666666666667,1366.67
+Počet prenocovaní návštevníkov spolu,2017,North Macedonia,4,67986,0.01,0.0053475935828877,-99.47
+Počet prenocovaní návštevníkov spolu,2017,Other American countries,33,67986,0.05,8.25,725.00
+Počet prenocovaní návštevníkov spolu,2017,Malaysia,4,67986,0.01,0.121212121212121,-87.88
+Počet prenocovaní návštevníkov spolu,2017,France,390,67986,0.57,97.5,9650.00
+Počet prenocovaní návštevníkov spolu,2017,Romania,600,67986,0.88,1.53846153846154,53.85
+Počet prenocovaní návštevníkov spolu,2017,Saudi Arabia,1,67986,0,0.00166666666666667,-99.83
+Počet prenocovaní návštevníkov spolu,2017,Switzerland,219,67986,0.32,219,21800.00
+Počet prenocovaní návštevníkov spolu,2017,New Zealand,22,67986,0.03,0.100456621004566,-89.95
+Počet prenocovaní návštevníkov spolu,2017,China,119,67986,0.18,5.40909090909091,440.91
+Počet prenocovaní návštevníkov spolu,2017,Montenegro,14,67986,0.02,0.117647058823529,-88.24
+Počet prenocovaní návštevníkov spolu,2017,Other Asian States,33,67986,0.05,2.35714285714286,135.71
+Počet prenocovaní návštevníkov spolu,2017,Germany,5268,67986,7.75,159.636363636364,15863.64
+Počet prenocovaní návštevníkov spolu,2017,Hungary,10219,67986,15.03,1.93982536066819,93.98
+Počet prenocovaní návštevníkov spolu,2017,Serbia,194,67986,0.29,0.0189842450337606,-98.10
+Počet prenocovaní návštevníkov spolu,2017,Malta,3,67986,0,0.0154639175257732,-98.45
+Počet prenocovaní návštevníkov spolu,2017,Czechia,23946,67986,35.22,7982,798100.00
+Počet prenocovaní návštevníkov spolu,2017,Italy,1293,67986,1.9,0.0539964921072413,-94.60
+Počet prenocovaní návštevníkov spolu,2017,Other European countries,514,67986,0.76,0.397525135344161,-60.25
+Počet prenocovaní návštevníkov spolu,2017,South Korea,6,67986,0.01,0.0116731517509728,-98.83
+Počet prenocovaní návštevníkov spolu,2017,Liechtenstein,3,67986,0,0.5,-50.00
+Počet prenocovaní návštevníkov spolu,2017,Bulgaria,93,67986,0.14,31,3000.00
+Počet prenocovaní návštevníkov spolu,2018,Spain,359,86068,0.42,3.86021505376344,286.02
+Počet prenocovaní návštevníkov spolu,2018,Romania,341,86068,0.4,0.949860724233983,-5.01
+Počet prenocovaní návštevníkov spolu,2018,Lithuania,716,86068,0.83,2.09970674486804,109.97
+Počet prenocovaní návštevníkov spolu,2018,China,475,86068,0.55,0.66340782122905,-33.66
+Počet prenocovaní návštevníkov spolu,2018,Australia,82,86068,0.1,0.172631578947368,-82.74
+Počet prenocovaní návštevníkov spolu,2018,Russia,315,86068,0.37,3.84146341463415,284.15
+Počet prenocovaní návštevníkov spolu,2018,Ireland,76,86068,0.09,0.241269841269841,-75.87
+Počet prenocovaní návštevníkov spolu,2018,United States,487,86068,0.57,6.40789473684211,540.79
+Počet prenocovaní návštevníkov spolu,2018,South Korea,8,86068,0.01,0.0164271047227926,-98.36
+Počet prenocovaní návštevníkov spolu,2018,Saudi Arabia,6,86068,0.01,0.75,-25.00
+Počet prenocovaní návštevníkov spolu,2018,Canada,142,86068,0.16,23.6666666666667,2266.67
+Počet prenocovaní návštevníkov spolu,2018,Serbia,75,86068,0.09,0.528169014084507,-47.18
+Počet prenocovaní návštevníkov spolu,2018,Greece,35,86068,0.04,0.466666666666667,-53.33
+Počet prenocovaní návštevníkov spolu,2018,Brazil,1486,86068,1.73,42.4571428571429,4145.71
+Počet prenocovaní návštevníkov spolu,2018,South Africa,16,86068,0.02,0.0107671601615074,-98.92
+Počet prenocovaní návštevníkov spolu,2018,Bulgaria,94,86068,0.11,5.875,487.50
+Počet prenocovaní návštevníkov spolu,2018,Slovenia,197,86068,0.23,2.09574468085106,109.57
+Počet prenocovaní návštevníkov spolu,2018,Luxembourg,7,86068,0.01,0.0355329949238579,-96.45
+Počet prenocovaní návštevníkov spolu,2018,Japan,83,86068,0.1,11.8571428571429,1085.71
+Počet prenocovaní návštevníkov spolu,2018,Malaysia,15,86068,0.02,0.180722891566265,-81.93
+Počet prenocovaní návštevníkov spolu,2018,Italy,1756,86068,2.04,117.066666666667,11606.67
+Počet prenocovaní návštevníkov spolu,2018,Germany,7744,86068,9,4.41002277904328,341.00
+Počet prenocovaní návštevníkov spolu,2018,Malta,12,86068,0.01,0.0015495867768595,-99.85
+Počet prenocovaní návštevníkov spolu,2018,Ukraine,1593,86068,1.85,132.75,13175.00
+Počet prenocovaní návštevníkov spolu,2018,Mexico,58,86068,0.07,0.0364092906465788,-96.36
+Počet prenocovaní návštevníkov spolu,2018,France,1058,86068,1.23,18.2413793103448,1724.14
+Počet prenocovaní návštevníkov spolu,2018,Moldova,1,86068,0,0.000945179584120983,-99.91
+Počet prenocovaní návštevníkov spolu,2018,Austria,1609,86068,1.87,1609,160800.00
+Počet prenocovaní návštevníkov spolu,2018,Montenegro,3,86068,0,0.00186451211932878,-99.81
+Počet prenocovaní návštevníkov spolu,2018,Turkey,91,86068,0.11,30.3333333333333,2933.33
+Počet prenocovaní návštevníkov spolu,2018,Morocco,2,86068,0,0.021978021978022,-97.80
+Počet prenocovaní návštevníkov spolu,2018,India,64,86068,0.07,32,3100.00
+Počet prenocovaní návštevníkov spolu,2018,Finland,57,86068,0.07,0.890625,-10.94
+Počet prenocovaní návštevníkov spolu,2018,United Kingdom,633,86068,0.74,11.1052631578947,1010.53
+Počet prenocovaní návštevníkov spolu,2018,Netherlands,1585,86068,1.84,2.50394944707741,150.39
+Počet prenocovaní návštevníkov spolu,2018,Israel,867,86068,1.01,0.547003154574133,-45.30
+Počet prenocovaní návštevníkov spolu,2018,Albania,168,86068,0.2,0.193771626297578,-80.62
+Počet prenocovaní návštevníkov spolu,2018,Kenya,1,86068,0,0.00595238095238095,-99.40
+Počet prenocovaní návštevníkov spolu,2018,New Zealand,20,86068,0.02,20,1900.00
+Počet prenocovaní návštevníkov spolu,2018,Iceland,9,86068,0.01,0.45,-55.00
+Počet prenocovaní návštevníkov spolu,2018,Estonia,69,86068,0.08,7.66666666666667,666.67
+Počet prenocovaní návštevníkov spolu,2018,Belarus,204,86068,0.24,2.95652173913043,195.65
+Počet prenocovaní návštevníkov spolu,2018,North Macedonia,1,86068,0,0.00490196078431373,-99.51
+Počet prenocovaní návštevníkov spolu,2018,Hungary,12453,86068,14.47,12453,1245200.00
+Počet prenocovaní návštevníkov spolu,2018,Thailand,3,86068,0,0.000240905805829921,-99.98
+Počet prenocovaní návštevníkov spolu,2018,Dominican Republic,20,86068,0.02,6.66666666666667,566.67
+Počet prenocovaní návštevníkov spolu,2018,Norway,58,86068,0.07,2.9,190.00
+Počet prenocovaní návštevníkov spolu,2018,Taiwan,16,86068,0.02,0.275862068965517,-72.41
+Počet prenocovaní návštevníkov spolu,2018,Latvia,48,86068,0.06,3,200.00
+Počet prenocovaní návštevníkov spolu,2018,Other African States,12,86068,0.01,0.25,-75.00
+Počet prenocovaní návštevníkov spolu,2018,Denmark,134,86068,0.16,11.1666666666667,1016.67
+Počet prenocovaní návštevníkov spolu,2018,Other American countries,23,86068,0.03,0.171641791044776,-82.84
+Počet prenocovaní návštevníkov spolu,2018,Belgium,696,86068,0.81,30.2608695652174,2926.09
+Počet prenocovaní návštevníkov spolu,2018,Switzerland,248,86068,0.29,0.35632183908046,-64.37
+Počet prenocovaní návštevníkov spolu,2018,United Arab Emirates,11,86068,0.01,0.0443548387096774,-95.56
+Počet prenocovaní návštevníkov spolu,2018,Other Asian States,19,86068,0.02,1.72727272727273,72.73
+Počet prenocovaní návštevníkov spolu,2018,Sweden,451,86068,0.52,23.7368421052632,2273.68
+Počet prenocovaní návštevníkov spolu,2018,Czechia,30024,86068,34.88,66.5720620842572,6557.21
+Počet prenocovaní návštevníkov spolu,2018,Other European countries,282,86068,0.33,0.00939248601119105,-99.06
+Počet prenocovaní návštevníkov spolu,2018,Cyprus,7,86068,0.01,0.024822695035461,-97.52
+Počet prenocovaní návštevníkov spolu,2018,Poland,18069,86068,20.99,2581.28571428571,258028.57
+Počet prenocovaní návštevníkov spolu,2018,Indonesia,20,86068,0.02,0.0011068681166639,-99.89
+Počet prenocovaní návštevníkov spolu,2018,Portugal,92,86068,0.11,4.6,360.00
+Počet prenocovaní návštevníkov spolu,2018,Bosnia and Herzegovina,18,86068,0.02,0.195652173913043,-80.43
+Počet prenocovaní návštevníkov spolu,2018,Croatia,293,86068,0.34,16.2777777777778,1527.78
+Počet prenocovaní návštevníkov spolu,2018,Qatar,2,86068,0,0.0068259385665529,-99.32
+Počet prenocovaní návštevníkov spolu,2019,Italy,1389,86405,1.61,694.5,69350.00
+Počet prenocovaní návštevníkov spolu,2019,Japan,53,86405,0.06,0.0381569474442045,-96.18
+Počet prenocovaní návštevníkov spolu,2019,Kazakhstan,10,86405,0.01,0.188679245283019,-81.13
+Počet prenocovaní návštevníkov spolu,2019,Hungary,15419,86405,17.85,1541.9,154090.00
+Počet prenocovaní návštevníkov spolu,2019,Latvia,482,86405,0.56,0.0312601336014009,-96.87
+Počet prenocovaní návštevníkov spolu,2019,Lithuania,596,86405,0.69,1.23651452282158,23.65
+Počet prenocovaní návštevníkov spolu,2019,Greece,47,86405,0.05,0.0788590604026846,-92.11
+Počet prenocovaní návštevníkov spolu,2019,Luxembourg,21,86405,0.02,0.446808510638298,-55.32
+Počet prenocovaní návštevníkov spolu,2019,Germany,10814,86405,12.52,514.952380952381,51395.24
+Počet prenocovaní návštevníkov spolu,2019,Malaysia,1,86405,0,9.24727205474385e-005,-99.99
+Počet prenocovaní návštevníkov spolu,2019,Georgia,2,86405,0,2,100.00
+Počet prenocovaní návštevníkov spolu,2019,Mexico,110,86405,0.13,55,5400.00
+Počet prenocovaní návštevníkov spolu,2019,France,658,86405,0.76,5.98181818181818,498.18
+Počet prenocovaní návštevníkov spolu,2019,Moldova,8,86405,0.01,0.0121580547112462,-98.78
+Počet prenocovaní návštevníkov spolu,2019,Montenegro,2,86405,0,0.25,-75.00
+Počet prenocovaní návštevníkov spolu,2019,Finland,206,86405,0.24,103,10200.00
+Počet prenocovaní návštevníkov spolu,2019,Netherlands,1653,86405,1.91,8.02427184466019,702.43
+Počet prenocovaní návštevníkov spolu,2019,United Kingdom,1000,86405,1.16,0.604960677555959,-39.50
+Počet prenocovaní návštevníkov spolu,2019,New Zealand,39,86405,0.05,0.039,-96.10
+Počet prenocovaní návštevníkov spolu,2019,Estonia,240,86405,0.28,6.15384615384615,515.38
+Počet prenocovaní návštevníkov spolu,2019,North Macedonia,5,86405,0.01,0.0208333333333333,-97.92
+Počet prenocovaní návštevníkov spolu,2019,Egypt,4,86405,0,0.8,-20.00
+Počet prenocovaní návštevníkov spolu,2019,Dominican Republic,32,86405,0.04,8,700.00
+Počet prenocovaní návštevníkov spolu,2019,Norway,89,86405,0.1,2.78125,178.13
+Počet prenocovaní návštevníkov spolu,2019,Denmark,310,86405,0.36,3.48314606741573,248.31
+Počet prenocovaní návštevníkov spolu,2019,Other African States,109,86405,0.13,0.351612903225806,-64.84
+Počet prenocovaní návštevníkov spolu,2019,Other American countries,10,86405,0.01,0.0917431192660551,-90.83
+Počet prenocovaní návštevníkov spolu,2019,Czechia,27266,86405,31.56,2726.6,272560.00
+Počet prenocovaní návštevníkov spolu,2019,Other Asian States,29,86405,0.03,0.00106359568693611,-99.89
+Počet prenocovaní návštevníkov spolu,2019,Other European countries,19,86405,0.02,0.655172413793103,-34.48
+Počet prenocovaní návštevníkov spolu,2019,Cyprus,13,86405,0.02,0.684210526315789,-31.58
+Počet prenocovaní návštevníkov spolu,2019,Argentina,1,86405,0,0.0769230769230769,-92.31
+Počet prenocovaní návštevníkov spolu,2019,Poland,15739,86405,18.22,15739,1573800.00
+Počet prenocovaní návštevníkov spolu,2019,Croatia,96,86405,0.11,0.00609949806213864,-99.39
+Počet prenocovaní návštevníkov spolu,2019,Portugal,48,86405,0.06,0.5,-50.00
+Počet prenocovaní návštevníkov spolu,2019,Romania,563,86405,0.65,11.7291666666667,1072.92
+Počet prenocovaní návštevníkov spolu,2019,China,332,86405,0.38,0.589698046181172,-41.03
+Počet prenocovaní návštevníkov spolu,2019,Albania,99,86405,0.11,0.298192771084337,-70.18
+Počet prenocovaní návštevníkov spolu,2019,Russia,336,86405,0.39,3.39393939393939,239.39
+Počet prenocovaní návštevníkov spolu,2019,Canada,115,86405,0.13,0.342261904761905,-65.77
+Počet prenocovaní návštevníkov spolu,2019,Vietnam,2,86405,0,0.0173913043478261,-98.26
+Počet prenocovaní návštevníkov spolu,2019,Serbia,96,86405,0.11,48,4700.00
+Počet prenocovaní návštevníkov spolu,2019,Bulgaria,99,86405,0.11,1.03125,3.13
+Počet prenocovaní návštevníkov spolu,2019,Singapore,2,86405,0,0.0202020202020202,-97.98
+Počet prenocovaní návštevníkov spolu,2019,Slovenia,188,86405,0.22,94,9300.00
+Počet prenocovaní návštevníkov spolu,2019,South Africa,18,86405,0.02,0.0957446808510638,-90.43
+Počet prenocovaní návštevníkov spolu,2019,Brazil,1855,86405,2.15,103.055555555556,10205.56
+Počet prenocovaní návštevníkov spolu,2019,South Korea,46,86405,0.05,0.0247978436657682,-97.52
+Počet prenocovaní návštevníkov spolu,2019,Bosnia and Herzegovina,171,86405,0.2,3.71739130434783,271.74
+Počet prenocovaní návštevníkov spolu,2019,Spain,424,86405,0.49,2.47953216374269,147.95
+Počet prenocovaní návštevníkov spolu,2019,United States,454,86405,0.53,1.07075471698113,7.08
+Počet prenocovaní návštevníkov spolu,2019,Sweden,460,86405,0.53,1.01321585903084,1.32
+Počet prenocovaní návštevníkov spolu,2019,Belgium,1457,86405,1.69,3.16739130434783,216.74
+Počet prenocovaní návštevníkov spolu,2019,Switzerland,327,86405,0.38,0.224433768016472,-77.56
+Počet prenocovaní návštevníkov spolu,2019,Taiwan,4,86405,0,0.0122324159021407,-98.78
+Počet prenocovaní návštevníkov spolu,2019,Belarus,174,86405,0.2,43.5,4250.00
+Počet prenocovaní návštevníkov spolu,2019,Thailand,9,86405,0.01,0.0517241379310345,-94.83
+Počet prenocovaní návštevníkov spolu,2019,Tunisia,2,86405,0,0.222222222222222,-77.78
+Počet prenocovaní návštevníkov spolu,2019,Turkey,434,86405,0.5,217,21600.00
+Počet prenocovaní návštevníkov spolu,2019,Austria,1677,86405,1.94,3.86405529953917,286.41
+Počet prenocovaní návštevníkov spolu,2019,Ukraine,1141,86405,1.32,0.680381633870006,-31.96
+Počet prenocovaní návštevníkov spolu,2019,Ireland,181,86405,0.21,0.15863277826468,-84.14
+Počet prenocovaní návštevníkov spolu,2019,Indonesia,18,86405,0.02,0.0994475138121547,-90.06
+Počet prenocovaní návštevníkov spolu,2019,Israel,355,86405,0.41,19.7222222222222,1872.22
+Počet prenocovaní návštevníkov spolu,2019,India,53,86405,0.06,0.149295774647887,-85.07
+Počet prenocovaní návštevníkov spolu,2019,Australia,200,86405,0.23,3.77358490566038,277.36
+Počet prenocovaní návštevníkov spolu,2020,Croatia,55,38744,0.14,0.275,-72.50
+Počet prenocovaní návštevníkov spolu,2020,Netherlands,340,38744,0.88,6.18181818181818,518.18
+Počet prenocovaní návštevníkov spolu,2020,Finland,15,38744,0.04,0.0441176470588235,-95.59
+Počet prenocovaní návštevníkov spolu,2020,Denmark,82,38744,0.21,5.46666666666667,446.67
+Počet prenocovaní návštevníkov spolu,2020,Turkey,26,38744,0.07,0.317073170731707,-68.29
+Počet prenocovaní návštevníkov spolu,2020,Poland,8357,38744,21.57,321.423076923077,32042.31
+Počet prenocovaní návštevníkov spolu,2020,Austria,653,38744,1.69,0.0781380878305612,-92.19
+Počet prenocovaní návštevníkov spolu,2020,Belgium,165,38744,0.43,0.252679938744257,-74.73
+Počet prenocovaní návštevníkov spolu,2020,Norway,6,38744,0.02,0.0363636363636364,-96.36
+Počet prenocovaní návštevníkov spolu,2020,France,195,38744,0.5,32.5,3150.00
+Počet prenocovaní návštevníkov spolu,2020,Latvia,72,38744,0.19,0.369230769230769,-63.08
+Počet prenocovaní návštevníkov spolu,2020,Mexico,14,38744,0.04,0.194444444444444,-80.56
+Počet prenocovaní návštevníkov spolu,2020,United States,34,38744,0.09,2.42857142857143,142.86
+Počet prenocovaní návštevníkov spolu,2020,Czechia,16451,38744,42.46,483.852941176471,48285.29
+Počet prenocovaní návštevníkov spolu,2020,Ukraine,310,38744,0.8,0.0188438392802869,-98.12
+Počet prenocovaní návštevníkov spolu,2020,Belarus,6,38744,0.02,0.0193548387096774,-98.06
+Počet prenocovaní návštevníkov spolu,2020,Malta,20,38744,0.05,3.33333333333333,233.33
+Počet prenocovaní návštevníkov spolu,2020,Germany,5128,38744,13.24,256.4,25540.00
+Počet prenocovaní návštevníkov spolu,2020,Indonesia,15,38744,0.04,0.00292511700468019,-99.71
+Počet prenocovaní návštevníkov spolu,2020,Spain,27,38744,0.07,1.8,80.00
+Počet prenocovaní návštevníkov spolu,2020,India,8,38744,0.02,0.296296296296296,-70.37
+Počet prenocovaní návštevníkov spolu,2020,Hungary,3177,38744,8.2,397.125,39612.50
+Počet prenocovaní návštevníkov spolu,2020,Lithuania,130,38744,0.34,0.0409191060749134,-95.91
+Počet prenocovaní návštevníkov spolu,2020,Slovenia,1089,38744,2.81,8.37692307692308,737.69
+Počet prenocovaní návštevníkov spolu,2020,North Macedonia,4,38744,0.01,0.00367309458218549,-99.63
+Počet prenocovaní návštevníkov spolu,2020,Israel,33,38744,0.09,8.25,725.00
+Počet prenocovaní návštevníkov spolu,2020,Brazil,520,38744,1.34,15.7575757575758,1475.76
+Počet prenocovaní návštevníkov spolu,2020,Bulgaria,68,38744,0.18,0.130769230769231,-86.92
+Počet prenocovaní návštevníkov spolu,2020,Italy,675,38744,1.74,9.92647058823529,892.65
+Počet prenocovaní návštevníkov spolu,2020,Ireland,18,38744,0.05,0.0266666666666667,-97.33
+Počet prenocovaní návštevníkov spolu,2020,Thailand,2,38744,0.01,0.111111111111111,-88.89
+Počet prenocovaní návštevníkov spolu,2020,Serbia,9,38744,0.02,4.5,350.00
+Počet prenocovaní návštevníkov spolu,2020,Greece,6,38744,0.02,0.666666666666667,-33.33
+Počet prenocovaní návštevníkov spolu,2020,Saudi Arabia,5,38744,0.01,0.833333333333333,-16.67
+Počet prenocovaní návštevníkov spolu,2020,Canada,20,38744,0.05,4,300.00
+Počet prenocovaní návštevníkov spolu,2020,United Kingdom,149,38744,0.38,7.45,645.00
+Počet prenocovaní návštevníkov spolu,2020,Switzerland,134,38744,0.35,0.899328859060403,-10.07
+Počet prenocovaní návštevníkov spolu,2020,New Zealand,4,38744,0.01,0.0298507462686567,-97.01
+Počet prenocovaní návštevníkov spolu,2020,Estonia,201,38744,0.52,50.25,4925.00
+Počet prenocovaní návštevníkov spolu,2020,Japan,2,38744,0.01,0.00995024875621891,-99.00
+Počet prenocovaní návštevníkov spolu,2020,Russia,132,38744,0.34,66,6500.00
+Počet prenocovaní návštevníkov spolu,2020,Sweden,39,38744,0.1,0.295454545454545,-70.45
+Počet prenocovaní návštevníkov spolu,2020,Romania,79,38744,0.2,2.02564102564103,102.56
+Počet prenocovaní návštevníkov spolu,2020,China,9,38744,0.02,0.113924050632911,-88.61
+Počet prenocovaní návštevníkov spolu,2020,Other American countries,14,38744,0.04,1.55555555555556,55.56
+Počet prenocovaní návštevníkov spolu,2021,Bulgaria,22,18726,0.12,1.57142857142857,57.14
+Počet prenocovaní návštevníkov spolu,2021,Spain,77,18726,0.41,3.5,250.00
+Počet prenocovaní návštevníkov spolu,2021,Portugal,2,18726,0.01,0.025974025974026,-97.40
+Počet prenocovaní návštevníkov spolu,2021,Croatia,88,18726,0.47,44,4300.00
+Počet prenocovaní návštevníkov spolu,2021,Poland,2987,18726,15.95,33.9431818181818,3294.32
+Počet prenocovaní návštevníkov spolu,2021,Other Asian States,11,18726,0.06,0.00368262470706394,-99.63
+Počet prenocovaní návštevníkov spolu,2021,Latvia,229,18726,1.22,20.8181818181818,1981.82
+Počet prenocovaní návštevníkov spolu,2021,Sweden,9,18726,0.05,0.0393013100436681,-96.07
+Počet prenocovaní návštevníkov spolu,2021,Belgium,142,18726,0.76,15.7777777777778,1477.78
+Počet prenocovaní návštevníkov spolu,2021,Czechia,7617,18726,40.68,53.6408450704225,5264.08
+Počet prenocovaní návštevníkov spolu,2021,Other American countries,7,18726,0.04,0.000918996980438493,-99.91
+Počet prenocovaní návštevníkov spolu,2021,Switzerland,62,18726,0.33,8.85714285714286,785.71
+Počet prenocovaní návštevníkov spolu,2021,United Kingdom,39,18726,0.21,0.629032258064516,-37.10
+Počet prenocovaní návštevníkov spolu,2021,Denmark,35,18726,0.19,0.897435897435897,-10.26
+Počet prenocovaní návštevníkov spolu,2021,Norway,1,18726,0.01,0.0285714285714286,-97.14
+Počet prenocovaní návštevníkov spolu,2021,Hungary,2159,18726,11.53,2159,215800.00
+Počet prenocovaní návštevníkov spolu,2021,Taiwan,2,18726,0.01,0.000926354793886058,-99.91
+Počet prenocovaní návštevníkov spolu,2021,Belarus,48,18726,0.26,24,2300.00
+Počet prenocovaní návštevníkov spolu,2021,Iceland,2,18726,0.01,0.0416666666666667,-95.83
+Počet prenocovaní návštevníkov spolu,2021,United States,49,18726,0.26,24.5,2350.00
+Počet prenocovaní návštevníkov spolu,2021,North Macedonia,2,18726,0.01,0.0408163265306122,-95.92
+Počet prenocovaní návštevníkov spolu,2021,Israel,100,18726,0.53,50,4900.00
+Počet prenocovaní návštevníkov spolu,2021,Austria,307,18726,1.64,3.07,207.00
+Počet prenocovaní návštevníkov spolu,2021,Estonia,51,18726,0.27,0.166123778501629,-83.39
+Počet prenocovaní návštevníkov spolu,2021,Netherlands,690,18726,3.68,13.5294117647059,1252.94
+Počet prenocovaní návštevníkov spolu,2021,Italy,438,18726,2.34,0.634782608695652,-36.52
+Počet prenocovaní návštevníkov spolu,2021,Turkey,3,18726,0.02,0.00684931506849315,-99.32
+Počet prenocovaní návštevníkov spolu,2021,Kazakhstan,4,18726,0.02,1.33333333333333,33.33
+Počet prenocovaní návštevníkov spolu,2021,Finland,14,18726,0.07,3.5,250.00
+Počet prenocovaní návštevníkov spolu,2021,Mexico,1,18726,0.01,0.0714285714285714,-92.86
+Počet prenocovaní návštevníkov spolu,2021,France,220,18726,1.17,220,21900.00
+Počet prenocovaní návštevníkov spolu,2021,Japan,2,18726,0.01,0.00909090909090909,-99.09
+Počet prenocovaní návštevníkov spolu,2021,Ukraine,130,18726,0.69,65,6400.00
+Počet prenocovaní návštevníkov spolu,2021,Germany,2227,18726,11.89,17.1307692307692,1613.08
+Počet prenocovaní návštevníkov spolu,2021,Luxembourg,4,18726,0.02,0.0017961383026493,-99.82
+Počet prenocovaní návštevníkov spolu,2021,Lithuania,195,18726,1.04,48.75,4775.00
+Počet prenocovaní návštevníkov spolu,2021,Slovenia,50,18726,0.27,0.256410256410256,-74.36
+Počet prenocovaní návštevníkov spolu,2021,Brazil,26,18726,0.14,0.52,-48.00
+Počet prenocovaní návštevníkov spolu,2021,Serbia,12,18726,0.06,0.461538461538462,-53.85
+Počet prenocovaní návštevníkov spolu,2021,Ireland,18,18726,0.1,1.5,50.00
+Počet prenocovaní návštevníkov spolu,2021,South Korea,1,18726,0.01,0.0555555555555556,-94.44
+Počet prenocovaní návštevníkov spolu,2021,Russia,70,18726,0.37,70,6900.00
+Počet prenocovaní návštevníkov spolu,2021,Bosnia and Herzegovina,8,18726,0.04,0.114285714285714,-88.57
+Počet prenocovaní návštevníkov spolu,2021,Romania,37,18726,0.2,4.625,362.50

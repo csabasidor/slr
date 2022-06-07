@@ -1,0 +1,21 @@
+﻿cat,y,val_district_ann_agg,k_growth_coef,k_growth_coef_pct
+Domáci návštevníci (Počet),2017,55406,NULL,NULL
+Domáci návštevníci (Počet),2018,64680,1.16738259394289,16.74
+Domáci návštevníci (Počet),2019,63626,0.983704390847248,-1.63
+Domáci návštevníci (Počet),2020,44739,0.703155942539214,-29.68
+Domáci návštevníci (Počet),2021,32996,0.73752207246474,-26.25
+Domáci návštevníci (Prenocovania),2017,127032,NULL,NULL
+Domáci návštevníci (Prenocovania),2018,139605,1.09897506140185,9.90
+Domáci návštevníci (Prenocovania),2019,145778,1.04421761398231,4.42
+Domáci návštevníci (Prenocovania),2020,113833,0.780865425510022,-21.91
+Domáci návštevníci (Prenocovania),2021,86377,0.758804564581448,-24.12
+Zahraniční návštevníci (Počet),2017,25616,NULL,NULL
+Zahraniční návštevníci (Počet),2018,34008,1.32760774515928,32.76
+Zahraniční návštevníci (Počet),2019,34457,1.01320277581745,1.32
+Zahraniční návštevníci (Počet),2020,14302,0.415068055837711,-58.49
+Zahraniční návštevníci (Počet),2021,6911,0.483219130191582,-51.68
+Zahraniční návštevníci (Prenocovania),2017,67986,NULL,NULL
+Zahraniční návštevníci (Prenocovania),2018,86068,1.26596652251934,26.60
+Zahraniční návštevníci (Prenocovania),2019,86405,1.00391550866757,0.39
+Zahraniční návštevníci (Prenocovania),2020,38744,0.448399976853191,-55.16
+Zahraniční návštevníci (Prenocovania),2021,18726,0.483326450547181,-51.67

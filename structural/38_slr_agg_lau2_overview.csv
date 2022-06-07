@@ -1,0 +1,361 @@
+﻿var,dim,dd,sector,val,val_districts,share_on_districts,k_growth_val,k_growth_pct,k_growth_share,k_growth_share_pct
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190201,Obce OOCR,1907,3891,49.01,1.211562897,21.16,0.98990103,-1.01
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190301,Obce OOCR,1912,2787,68.6,1.002621919,0.26,1.399714344,39.97
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190401,Obce OOCR,2019,3125,64.61,1.055962343,5.6,0.941836735,-5.82
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190501,Obce OOCR,3101,6127,50.61,1.535908866,53.59,0.783315276,-21.67
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190601,Obce OOCR,2191,5617,39.01,0.706546275,-29.35,0.770796285,-22.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190701,Obce OOCR,3171,9106,34.82,1.447284345,44.73,0.892591643,-10.74
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190801,Obce OOCR,5622,9650,58.26,1.772942289,77.29,1.673176335,67.32
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190901,Obce OOCR,2615,6012,43.5,0.465136962,-53.49,0.746652935,-25.33
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20191001,Obce OOCR,2817,5288,53.27,1.077246654,7.72,1.224597701,22.46
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20191101,Obce OOCR,1790,4495,39.82,0.63542776,-36.46,0.747512671,-25.25
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20191201,Obce OOCR,2082,4349,47.87,1.163128492,16.31,1.202159719,20.22
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200101,Obce OOCR,1446,5107,28.31,0.694524496,-30.55,0.591393357,-40.86
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200201,Obce OOCR,1517,4403,34.45,1.049100968,4.91,1.216884493,21.69
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200301,Obce OOCR,480,1411,34.02,0.316413975,-68.36,0.987518142,-1.25
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200501,Obce OOCR,371,1313,28.26,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200601,Obce OOCR,1118,2859,39.1,3.013477089,201.35,1.383581033,38.36
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200701,Obce OOCR,3109,10148,30.64,2.780858676,178.09,0.783631714,-21.64
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200801,Obce OOCR,4308,12044,35.77,1.385654551,38.57,1.167428198,16.74
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200901,Obce OOCR,1871,4815,38.86,0.434308264,-56.57,1.086385239,8.64
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20201001,Obce OOCR,769,1300,59.15,0.411010155,-58.9,1.522130726,52.21
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20201101,Obce OOCR,330,694,47.55,0.429128739,-57.09,0.803888419,-19.61
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20201201,Obce OOCR,354,604,58.61,1.072727273,7.27,1.232597266,23.26
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210201,Obce OOCR,95,182,52.2,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210401,Obce OOCR,317,500,63.4,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210501,Obce OOCR,501,1211,41.37,1.58044164,58.04,0.652523659,-34.75
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210601,Obce OOCR,1480,3588,41.25,2.954091816,195.41,0.997099347,-0.29
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210701,Obce OOCR,3338,8668,38.51,2.255405405,125.54,0.933575758,-6.64
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210801,Obce OOCR,4993,11382,43.87,1.495805872,49.58,1.139184627,13.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210901,Obce OOCR,1851,3824,48.4,0.370719007,-62.93,1.103259631,10.33
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20211001,Obce OOCR,1206,2084,57.87,0.651539708,-34.85,1.195661157,19.57
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20211201,Obce OOCR,280,660,42.42,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170101,Obce OOCR,1708,4318,39.56,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170201,Obce OOCR,2265,5671,39.94,1.326112412,32.61,1.009605662,0.96
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170301,Obce OOCR,1925,4371,44.04,0.849889625,-15.01,1.102653981,10.27
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170401,Obce OOCR,2500,5156,48.49,1.298701299,29.87,1.101044505,10.1
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170501,Obce OOCR,3976,7611,52.24,1.5904,59.04,1.077335533,7.73
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170601,Obce OOCR,4242,7737,54.83,1.066901408,6.69,1.049578867,4.96
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170701,Obce OOCR,8213,12590,65.23,1.93611504,93.61,1.189677184,18.97
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170801,Obce OOCR,7359,12214,60.25,0.896018507,-10.4,0.92365476,-7.63
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170901,Obce OOCR,4042,7427,54.42,0.54925941,-45.07,0.903236515,-9.68
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20171001,Obce OOCR,2983,5797,51.46,0.73800099,-26.2,0.945608232,-5.44
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20171101,Obce OOCR,2289,4151,55.14,0.767348307,-23.27,1.071511854,7.15
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20171201,Obce OOCR,2115,3979,53.15,0.923984273,-7.6,0.963910047,-3.61
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180101,Obce OOCR,1735,3310,52.42,0.820330969,-17.97,0.986265287,-1.37
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180201,Obce OOCR,2485,5865,42.37,1.432276657,43.23,0.808279283,-19.17
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180301,Obce OOCR,2429,4747,51.17,0.977464789,-2.25,1.207694123,20.77
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180401,Obce OOCR,3106,5448,57.01,1.278715521,27.87,1.114129373,11.41
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180501,Obce OOCR,5113,9019,56.69,1.646168706,64.62,0.99438695,-0.56
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180601,Obce OOCR,6223,9817,63.39,1.217093683,21.71,1.118186629,11.82
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180701,Obce OOCR,4746,17175,27.63,0.762654668,-23.73,0.435873166,-56.41
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180801,Obce OOCR,12230,18041,67.79,2.576906869,157.69,2.453492581,145.35
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180901,Obce OOCR,5831,9461,61.63,0.476778414,-52.32,0.90913114,-9.09
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20181001,Obce OOCR,3239,6394,50.66,0.555479335,-44.45,0.822002272,-17.8
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20181101,Obce OOCR,2069,4598,45,0.6387774,-36.12,0.888274773,-11.17
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20181201,Obce OOCR,2186,4813,45.42,1.056549058,5.65,1.009333333,0.93
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190101,Obce OOCR,1851,4732,39.12,0.846752059,-15.32,0.861294584,-13.87
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190201,Obce OOCR,2303,5644,40.8,1.244192328,24.42,1.042944785,4.29
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190301,Obce OOCR,2239,4162,53.8,0.972210161,-2.78,1.318627451,31.86
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190401,Obce OOCR,2789,5612,49.7,1.245645377,24.56,0.923791822,-7.62
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190501,Obce OOCR,5140,9430,54.51,1.842954464,84.3,1.096780684,9.68
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190601,Obce OOCR,3451,10394,33.2,0.671400778,-32.86,0.609062557,-39.09
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190701,Obce OOCR,5042,17576,28.69,1.46102579,46.1,0.864156627,-13.58
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190801,Obce OOCR,12753,18507,68.91,2.529353431,152.94,2.401882189,140.19
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190901,Obce OOCR,3810,9432,40.39,0.298753235,-70.12,0.586126832,-41.39
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20191001,Obce OOCR,3569,7431,48.03,0.936745407,-6.33,1.189155732,18.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20191101,Obce OOCR,2192,5201,42.15,0.614177641,-38.58,0.877576515,-12.24
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20191201,Obce OOCR,2465,5648,43.64,1.124543796,12.45,1.035349941,3.53
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200101,Obce OOCR,1761,5768,30.53,0.714401623,-28.56,0.699587534,-30.04
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200201,Obce OOCR,1815,5518,32.89,1.030664395,3.07,1.077301015,7.73
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200301,Obce OOCR,643,1871,34.37,0.354269972,-64.57,1.04499848,4.5
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200501,Obce OOCR,381,1393,27.35,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200601,Obce OOCR,1246,3474,35.87,3.270341207,227.03,1.311517367,31.15
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200701,Obce OOCR,3970,15445,25.7,3.186195827,218.62,0.716476164,-28.35
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200801,Obce OOCR,5435,17055,31.87,1.369017632,36.9,1.240077821,24.01
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200901,Obce OOCR,2381,6814,34.94,0.438086477,-56.19,1.096328836,9.63
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20201001,Obce OOCR,837,1487,56.29,0.351532969,-64.85,1.61104751,61.1
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20201101,Obce OOCR,351,746,47.05,0.419354839,-58.06,0.835850062,-16.41
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20201201,Obce OOCR,374,652,57.36,1.065527066,6.55,1.219128587,21.91
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210101,Obce OOCR,33,166,19.88,0.088235294,-91.18,0.346582985,-65.34
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210201,Obce OOCR,107,218,49.08,3.242424242,224.24,2.468812877,146.88
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210301,Obce OOCR,255,383,66.58,2.38317757,138.32,1.356560717,35.66
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210401,Obce OOCR,332,531,62.52,1.301960784,30.2,0.939020727,-6.1
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210501,Obce OOCR,721,1298,55.55,2.171686747,117.17,0.888515675,-11.15
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210601,Obce OOCR,2224,4185,53.14,3.084604716,208.46,0.956615662,-4.34
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210701,Obce OOCR,3761,10340,36.37,1.691097122,69.11,0.684418517,-31.56
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210801,Obce OOCR,5727,13679,41.87,1.522733316,52.27,1.151223536,15.12
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210901,Obce OOCR,2526,5774,43.75,0.441068622,-55.89,1.044900884,4.49
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20211001,Obce OOCR,1403,2568,54.63,0.555423595,-44.46,1.248685714,24.87
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20211101,Obce OOCR,159,584,27.23,0.113328582,-88.67,0.498444078,-50.16
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20211201,Obce OOCR,500,819,61.05,3.144654088,214.47,2.242012486,124.2
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170101,Obce OOCR,332,817,40.64,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170201,Obce OOCR,367,951,38.59,1.105421687,10.54,0.949557087,-5.04
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170301,Obce OOCR,515,867,59.4,1.403269755,40.33,1.539258875,53.93
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170401,Obce OOCR,1090,1582,68.9,2.116504854,111.65,1.15993266,15.99
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170501,Obce OOCR,1453,2129,68.25,1.333027523,33.3,0.990566038,-0.94
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170601,Obce OOCR,1788,2582,69.25,1.230557467,23.06,1.014652015,1.47
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170701,Obce OOCR,4597,5980,76.87,2.571029083,157.1,1.110036101,11
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170801,Obce OOCR,4024,5266,76.41,0.875353491,-12.46,0.994015871,-0.6
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170901,Obce OOCR,1594,2324,68.59,0.39612326,-60.39,0.897657375,-10.23
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20171001,Obce OOCR,725,1629,44.51,0.454830615,-54.52,0.648928415,-35.11
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20171101,Obce OOCR,336,642,52.34,0.463448276,-53.66,1.175915525,17.59
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20171201,Obce OOCR,508,847,59.98,1.511904762,51.19,1.145968666,14.6
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180101,Obce OOCR,285,482,59.13,0.561023622,-43.9,0.98582861,-1.42
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180201,Obce OOCR,432,1520,28.42,1.515789474,51.58,0.480635887,-51.94
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180301,Obce OOCR,480,846,56.74,1.111111111,11.11,1.996481351,99.65
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180401,Obce OOCR,1306,1888,69.17,2.720833333,172.08,1.21906944,21.91
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180501,Obce OOCR,2480,3300,75.15,1.898928025,89.89,1.086453665,8.65
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180601,Obce OOCR,2766,3416,80.97,1.115322581,11.53,1.07744511,7.74
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180701,Obce OOCR,1702,7739,21.99,0.615328995,-38.47,0.271582067,-72.84
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180801,Obce OOCR,6584,8151,80.78,3.868390129,286.84,3.673487949,267.35
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180901,Obce OOCR,2705,3417,79.16,0.410844471,-58.92,0.979945531,-2.01
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20181001,Obce OOCR,962,1599,60.16,0.355637708,-64.44,0.759979788,-24
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20181101,Obce OOCR,317,643,49.3,0.32952183,-67.05,0.819481383,-18.05
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20181201,Obce OOCR,564,1007,56.01,1.779179811,77.92,1.136105477,13.61
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190101,Obce OOCR,277,446,62.11,0.491134752,-50.89,1.108909123,10.89
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190201,Obce OOCR,396,559,70.84,1.429602888,42.96,1.140557076,14.06
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190301,Obce OOCR,327,478,68.41,0.825757576,-17.42,0.965697346,-3.43
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190401,Obce OOCR,770,1094,70.38,2.354740061,135.47,1.02879696,2.88
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190501,Obce OOCR,2039,3303,61.73,2.648051948,164.81,0.877095766,-12.29
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190601,Obce OOCR,1260,4225,29.82,0.617949975,-38.21,0.48307144,-51.69
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190701,Obce OOCR,1871,8470,22.09,1.484920635,48.49,0.740778001,-25.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190801,Obce OOCR,7131,8857,80.51,3.811330839,281.13,3.644635582,264.46
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190901,Obce OOCR,1195,3420,34.94,0.16757818,-83.24,0.433983356,-56.6
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20191001,Obce OOCR,752,2143,35.09,0.629288703,-37.07,1.004293074,0.43
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20191101,Obce OOCR,402,706,56.94,0.534574468,-46.54,1.622684526,62.27
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20191201,Obce OOCR,383,756,50.66,0.952736318,-4.73,0.889708465,-11.03
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200101,Obce OOCR,315,661,47.66,0.822454308,-17.75,0.940781682,-5.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200201,Obce OOCR,298,649,45.92,0.946031746,-5.4,0.963491397,-3.65
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200301,Obce OOCR,128,227,56.39,0.429530201,-57.05,1.228005226,22.8
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200501,Obce OOCR,10,19,52.63,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200601,Obce OOCR,128,615,20.81,12.8,1180,0.395401862,-60.46
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200701,Obce OOCR,861,5297,16.25,6.7265625,572.66,0.78087458,-21.91
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200801,Obce OOCR,1127,5011,22.49,1.308943089,30.89,1.384,38.4
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200901,Obce OOCR,510,1536,33.2,0.452528838,-54.75,1.47621165,47.62
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20201001,Obce OOCR,68,187,36.36,0.133333333,-86.67,1.095180723,9.52
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20201101,Obce OOCR,21,52,40.38,0.308823529,-69.12,1.110561056,11.06
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20201201,Obce OOCR,20,48,41.67,0.952380952,-4.76,1.031946508,3.19
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210201,Obce OOCR,12,36,33.33,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210401,Obce OOCR,15,31,48.39,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210501,Obce OOCR,27,87,31.03,1.8,80,0.641248192,-35.88
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210601,Obce OOCR,115,597,19.26,4.259259259,325.93,0.620689655,-37.93
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210701,Obce OOCR,423,1672,25.3,3.67826087,267.83,1.313603323,31.36
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210801,Obce OOCR,734,2297,31.95,1.735224586,73.52,1.26284585,26.28
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210901,Obce OOCR,503,1421,35.4,0.685286104,-31.47,1.107981221,10.8
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20211001,Obce OOCR,197,484,40.7,0.391650099,-60.83,1.149717514,14.97
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20211201,Obce OOCR,139,159,87.42,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170101,Obce OOCR,2815,9432,29.85,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170201,Obce OOCR,3678,12704,28.95,1.306571936,30.66,0.969849246,-3.02
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170301,Obce OOCR,2707,7231,37.44,0.735997825,-26.4,1.293264249,29.33
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170401,Obce OOCR,2800,8073,34.68,1.034355375,3.44,0.926282051,-7.37
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170501,Obce OOCR,4580,11542,39.68,1.635714286,63.57,1.144175317,14.42
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170601,Obce OOCR,4759,10762,44.22,1.039082969,3.91,1.114415323,11.44
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170701,Obce OOCR,9049,17124,52.84,1.901449884,90.14,1.194934419,19.49
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170801,Obce OOCR,8903,20317,43.82,0.983865621,-1.61,0.829295988,-17.07
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170901,Obce OOCR,4680,9289,50.38,0.525665506,-47.43,1.149703332,14.97
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20171001,Obce OOCR,4048,7683,52.69,0.864957265,-13.5,1.045851528,4.59
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20171101,Obce OOCR,3398,6736,50.45,0.839426877,-16.06,0.957487189,-4.25
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20171201,Obce OOCR,3083,6139,50.22,0.907298411,-9.27,0.995441031,-0.46
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180101,Obce OOCR,3164,7540,41.96,1.026273111,2.63,0.835523696,-16.45
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180201,Obce OOCR,4373,10271,42.58,1.382111252,38.21,1.014775977,1.48
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180301,Obce OOCR,3918,7939,49.35,0.895952435,-10.4,1.158994833,15.9
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180401,Obce OOCR,3339,6421,52,0.852220521,-14.78,1.053698075,5.37
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180501,Obce OOCR,5111,11438,44.68,1.530697814,53.07,0.859230769,-14.08
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180601,Obce OOCR,7452,13800,54,1.458031696,45.8,1.208594449,20.86
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180701,Obce OOCR,8858,24244,36.54,1.188674181,18.87,0.676666667,-32.33
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180801,Obce OOCR,11411,23314,48.94,1.288214044,28.82,1.339354132,33.94
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180901,Obce OOCR,5803,11328,51.23,0.508544387,-49.15,1.04679199,4.68
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20181001,Obce OOCR,4428,8936,49.55,0.763053593,-23.69,0.967206715,-3.28
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20181101,Obce OOCR,3261,7263,44.9,0.736449864,-26.36,0.906155399,-9.38
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20181201,Obce OOCR,3043,7111,42.79,0.933149341,-6.69,0.953006682,-4.7
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190101,Obce OOCR,3398,8449,40.22,1.11666119,11.67,0.939939238,-6.01
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190201,Obce OOCR,3995,9673,41.3,1.175691583,17.57,1.026852312,2.69
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190301,Obce OOCR,3726,5560,67.01,0.932665832,-6.73,1.62251816,62.25
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190401,Obce OOCR,4262,6532,65.25,1.143853999,14.39,0.973735263,-2.63
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190501,Obce OOCR,5905,12564,47,1.385499765,38.55,0.720306513,-27.97
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190601,Obce OOCR,4584,11834,38.74,0.776291279,-22.37,0.824255319,-17.57
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190701,Obce OOCR,8815,27609,31.93,1.922993019,92.3,0.8242127,-17.58
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190801,Obce OOCR,14868,26040,57.1,1.686670448,68.67,1.788286878,78.83
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190901,Obce OOCR,5024,11608,43.28,0.337906914,-66.21,0.757968476,-24.2
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20191001,Obce OOCR,5038,9240,54.52,1.002786624,0.28,1.259704251,25.97
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20191101,Obce OOCR,3383,8093,41.8,0.671496626,-32.85,0.766691123,-23.33
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20191201,Obce OOCR,3873,8576,45.16,1.144841856,14.48,1.080382775,8.04
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200101,Obce OOCR,2884,11669,24.72,0.744642396,-25.54,0.547387068,-45.26
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200201,Obce OOCR,3574,11383,31.4,1.23925104,23.93,1.270226537,27.02
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200301,Obce OOCR,1169,3439,33.99,0.327084499,-67.29,1.082484076,8.25
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200501,Obce OOCR,793,4349,18.23,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200601,Obce OOCR,2343,5676,41.28,2.954602774,195.46,2.264399342,126.44
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200701,Obce OOCR,8268,27235,30.36,3.528809219,252.88,0.735465116,-26.45
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200801,Obce OOCR,11679,31989,36.51,1.412554427,41.26,1.20256917,20.26
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200901,Obce OOCR,5111,11431,44.71,0.437623084,-56.24,1.224596001,22.46
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20201001,Obce OOCR,1578,3120,50.58,0.308745842,-69.13,1.131290539,13.13
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20201101,Obce OOCR,768,1973,38.93,0.486692015,-51.33,0.769671807,-23.03
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20201201,Obce OOCR,703,1351,52.04,0.915364583,-8.46,1.336758284,33.68
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210201,Obce OOCR,464,674,68.84,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210401,Obce OOCR,1244,1713,72.62,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210501,Obce OOCR,1257,2721,46.2,1.010450161,1.05,0.636188378,-36.38
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210601,Obce OOCR,2672,6953,38.43,2.125696102,112.57,0.831818182,-16.82
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210701,Obce OOCR,10288,25514,40.32,3.850299401,285.03,1.049180328,4.92
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210801,Obce OOCR,13426,31928,42.05,1.305015552,30.5,1.042906746,4.29
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210901,Obce OOCR,4211,8574,49.11,0.313645166,-68.64,1.167895363,16.79
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20211001,Obce OOCR,2509,4305,58.28,0.59582047,-40.42,1.186723682,18.67
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20211201,Obce OOCR,591,1364,43.33,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170101,Obce OOCR,3498,11859,29.5,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170201,Obce OOCR,4649,15353,30.28,1.329045169,32.9,1.026440678,2.64
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170301,Obce OOCR,3903,9317,41.89,0.839535384,-16.05,1.3834214,38.34
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170401,Obce OOCR,7286,13692,53.21,1.866769152,86.68,1.270231559,27.02
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170501,Obce OOCR,7506,15918,47.15,1.030194894,3.02,0.886111633,-11.39
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170601,Obce OOCR,9059,16728,54.15,1.206901146,20.69,1.148462354,14.85
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170701,Obce OOCR,22403,34243,65.42,2.473010266,147.3,1.208125577,20.81
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170801,Obce OOCR,20391,34919,58.4,0.910190599,-8.98,0.892693366,-10.73
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20170901,Obce OOCR,8679,14961,58.01,0.425628954,-57.44,0.993321918,-0.67
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20171001,Obce OOCR,5815,11413,50.95,0.670008065,-33,0.878296845,-12.17
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20171101,Obce OOCR,4088,8224,49.71,0.703009458,-29.7,0.975662414,-2.43
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20171201,Obce OOCR,4393,8391,52.35,1.074608611,7.46,1.053108027,5.31
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180101,Obce OOCR,3906,9014,43.33,0.889141817,-11.09,0.827698185,-17.23
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180201,Obce OOCR,5251,15861,33.11,1.344342038,34.43,0.764135703,-23.59
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180301,Obce OOCR,4940,9707,50.89,0.940773186,-5.92,1.536997886,53.7
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180401,Obce OOCR,6049,10455,57.86,1.224493927,22.45,1.136962075,13.7
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180501,Obce OOCR,9974,18010,55.38,1.648867581,64.89,0.957137919,-4.29
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180601,Obce OOCR,13543,21478,63.06,1.357830359,35.78,1.138678223,13.87
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180701,Obce OOCR,14357,45850,31.31,1.060104851,6.01,0.496511259,-50.35
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180801,Obce OOCR,28693,44745,64.13,1.998537299,99.85,2.048227403,104.82
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20180901,Obce OOCR,12616,19873,63.48,0.439689123,-56.03,0.989864338,-1.01
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20181001,Obce OOCR,6706,12545,53.46,0.531547242,-46.85,0.842155009,-15.78
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20181101,Obce OOCR,4059,8627,47.05,0.605278855,-39.47,0.880097269,-11.99
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20181201,Obce OOCR,4501,9508,47.34,1.108893816,10.89,1.006163656,0.62
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190101,Obce OOCR,4262,13230,32.21,0.946900689,-5.31,0.680397127,-31.96
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190201,Obce OOCR,4834,14791,32.68,1.134209291,13.42,1.014591742,1.46
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190301,Obce OOCR,4555,8579,53.09,0.942283823,-5.77,1.624541004,62.45
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190401,Obce OOCR,6095,11967,50.93,1.338090011,33.81,0.959314372,-4.07
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190501,Obce OOCR,10453,19793,52.81,1.715012305,71.5,1.036913411,3.69
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190601,Obce OOCR,7810,22028,35.45,0.747153927,-25.28,0.67127438,-32.87
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190701,Obce OOCR,15442,51226,30.14,1.977208707,97.72,0.850211566,-14.98
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190801,Obce OOCR,33404,49373,67.66,2.163191296,116.32,2.244857332,124.49
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20190901,Obce OOCR,8117,19546,41.53,0.242994851,-75.7,0.613804316,-38.62
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20191001,Obce OOCR,6732,14137,47.62,0.829370457,-17.06,1.146640982,14.66
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20191101,Obce OOCR,4380,9672,45.29,0.650623886,-34.94,0.951070979,-4.89
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20191201,Obce OOCR,4787,11392,42.02,1.092922374,9.29,0.927798631,-7.22
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170101,Obce OOCR,1376,3501,39.3,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170201,Obce OOCR,1898,4720,40.21,1.379360465,37.94,1.023155216,2.32
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170301,Obce OOCR,1410,3504,40.24,0.74288725,-25.71,1.000746083,0.07
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170401,Obce OOCR,1410,3574,39.45,1,0,0.980367793,-1.96
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170501,Obce OOCR,2523,5482,46.02,1.789361702,78.94,1.166539924,16.65
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170601,Obce OOCR,2454,5155,47.6,0.972651605,-2.73,1.034332899,3.43
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170701,Obce OOCR,3616,6610,54.7,1.473512632,47.35,1.149159664,14.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170801,Obce OOCR,3335,6948,48,0.922289823,-7.77,0.877513711,-12.25
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20170901,Obce OOCR,2448,5103,47.97,0.734032984,-26.6,0.999375,-0.06
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20171001,Obce OOCR,2258,4168,54.17,0.922385621,-7.76,1.129247446,12.92
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20171101,Obce OOCR,1953,3509,55.66,0.864924712,-13.51,1.027506,2.75
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20171201,Obce OOCR,1607,3132,51.31,0.822836662,-17.72,0.921846928,-7.82
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180101,Obce OOCR,1450,2828,51.27,0.902302427,-9.77,0.999220425,-0.08
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180201,Obce OOCR,2053,4345,47.25,1.415862069,41.59,0.921591574,-7.84
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180301,Obce OOCR,1949,3901,49.96,0.949342426,-5.07,1.057354497,5.74
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180401,Obce OOCR,1800,3560,50.56,0.923550539,-7.64,1.012009608,1.2
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180501,Obce OOCR,2633,5719,46.04,1.462777778,46.28,0.910601266,-8.94
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180601,Obce OOCR,3457,6401,54.01,1.312951006,31.3,1.173110339,17.31
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180701,Obce OOCR,3044,9436,32.26,0.880532253,-11.95,0.597296797,-40.27
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180801,Obce OOCR,5646,9890,57.09,1.854796321,85.48,1.769683819,76.97
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20180901,Obce OOCR,3126,6044,51.72,0.553666312,-44.63,0.905937993,-9.41
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20181001,Obce OOCR,2277,4795,47.49,0.72840691,-27.16,0.918213457,-8.18
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20181101,Obce OOCR,1752,3955,44.3,0.769433465,-23.06,0.932827964,-6.72
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20181201,Obce OOCR,1622,3806,42.62,0.925799087,-7.42,0.962076749,-3.79
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20190101,Obce OOCR,1574,3179,49.51,0.970406905,-2.96,1.161661192,16.17
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200401,Obce OOCR,NULL,41,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210101,Obce OOCR,NULL,144,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210301,Obce OOCR,NULL,365,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20211101,Obce OOCR,NULL,388,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200401,Obce OOCR,NULL,41,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200401,Obce OOCR,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210101,Obce OOCR,NULL,22,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210301,Obce OOCR,NULL,18,NULL,NULL,NULL,NULL,NULL
+PoÄet nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20211101,Obce OOCR,NULL,87,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20200401,Obce OOCR,NULL,218,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210101,Obce OOCR,NULL,498,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20210301,Obce OOCR,NULL,1322,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,DomÃ¡ci nÃ¡vÅ¡tevnÃ­ci,20211101,Obce OOCR,NULL,811,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200401,Obce OOCR,NULL,218,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200401,Obce OOCR,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210101,Obce OOCR,NULL,99,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210301,Obce OOCR,NULL,38,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20211101,Obce OOCR,NULL,189,NULL,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200101,Obce OOCR,3679,13338,27.58,0.768539795,-23.15,0.656354117,-34.36
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200201,Obce OOCR,4575,14577,31.39,1.243544441,24.35,1.138143582,13.81
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200301,Obce OOCR,1606,4491,35.76,0.351038251,-64.9,1.139216311,13.92
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200501,Obce OOCR,819,4537,18.05,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200601,Obce OOCR,2651,7036,37.68,3.236874237,223.69,2.087534626,108.75
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200701,Obce OOCR,11036,41616,26.52,4.162957375,316.3,0.703821656,-29.62
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200801,Obce OOCR,15299,45572,33.57,1.386281261,38.63,1.265837104,26.58
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20200901,Obce OOCR,6826,16207,42.12,0.446172952,-55.38,1.254691689,25.47
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20201001,Obce OOCR,1754,3586,48.91,0.256958687,-74.3,1.161206078,16.12
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20201101,Obce OOCR,838,2247,37.29,0.477765108,-52.22,0.762420773,-23.76
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20201201,Obce OOCR,780,1605,48.6,0.930787589,-6.92,1.303298471,30.33
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210101,Obce OOCR,101,597,16.92,0.129487179,-87.05,0.348148148,-65.19
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210201,Obce OOCR,501,786,63.74,4.96039604,396.04,3.76713948,276.71
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210301,Obce OOCR,1062,1360,78.09,2.119760479,111.98,1.225133354,22.51
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210401,Obce OOCR,1301,1808,71.96,1.225047081,22.5,0.921500832,-7.85
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210501,Obce OOCR,1770,2924,60.53,1.360491929,36.05,0.841161757,-15.88
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210601,Obce OOCR,4451,8258,53.9,2.514689266,151.47,0.890467537,-10.95
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210701,Obce OOCR,11901,30820,38.61,2.673781173,167.38,0.716326531,-28.37
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210801,Obce OOCR,15625,37948,41.17,1.312914881,31.29,1.066304066,6.63
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20210901,Obce OOCR,6036,13431,44.94,0.386304,-61.37,1.091571533,9.16
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20211001,Obce OOCR,2939,5355,54.88,0.486911862,-51.31,1.221183801,22.12
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20211101,Obce OOCR,388,1171,33.13,0.132017693,-86.8,0.603680758,-39.63
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,NÃ¡vÅ¡tevnÃ­ci spolu,20211201,Obce OOCR,1225,1844,66.43,3.157216495,215.72,2.005131301,100.51
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170101,Obce OOCR,683,2427,28.14,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170201,Obce OOCR,971,2649,36.66,1.421669107,42.17,1.302771855,30.28
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170301,Obce OOCR,1196,2086,57.33,1.231719876,23.17,1.563829787,56.38
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170401,Obce OOCR,4486,5619,79.84,3.75083612,275.08,1.392639107,39.26
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170501,Obce OOCR,2926,4376,66.86,0.652251449,-34.77,0.83742485,-16.26
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170601,Obce OOCR,4300,5966,72.08,1.469583049,46.96,1.078073587,7.81
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170701,Obce OOCR,13354,17119,78.01,3.105581395,210.56,1.0822697,8.23
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170801,Obce OOCR,11488,14602,78.67,0.860266587,-13.97,1.008460454,0.85
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20170901,Obce OOCR,3999,5672,70.5,0.348102368,-65.19,0.896148468,-10.39
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20171001,Obce OOCR,1767,3730,47.37,0.441860465,-55.81,0.671914894,-32.81
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20171101,Obce OOCR,690,1488,46.37,0.39049236,-60.95,0.978889593,-2.11
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20171201,Obce OOCR,1310,2252,58.17,1.898550725,89.86,1.254474876,25.45
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180101,Obce OOCR,742,1474,50.34,0.566412214,-43.36,0.865394533,-13.46
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180201,Obce OOCR,878,5590,15.71,1.18328841,18.33,0.31207787,-68.79
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180301,Obce OOCR,1022,1768,57.81,1.164009112,16.4,3.67982177,267.98
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180401,Obce OOCR,2710,4034,67.18,2.651663405,165.17,1.162082685,16.21
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180501,Obce OOCR,4863,6572,74,1.794464945,79.45,1.101518309,10.15
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180601,Obce OOCR,6091,7678,79.33,1.252519021,25.25,1.072027027,7.2
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180701,Obce OOCR,5499,21606,25.45,0.902807421,-9.72,0.320811799,-67.92
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180801,Obce OOCR,17282,21431,80.64,3.142753228,214.28,3.168565815,216.86
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20180901,Obce OOCR,6813,8545,79.73,0.394225205,-60.58,0.988715278,-1.13
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20181001,Obce OOCR,2278,3609,63.12,0.334360781,-66.56,0.791671893,-20.83
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20181101,Obce OOCR,798,1364,58.5,0.350307287,-64.97,0.926806084,-7.32
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20181201,Obce OOCR,1458,2397,60.83,1.827067669,82.71,1.03982906,3.98
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190101,Obce OOCR,864,1242,69.57,0.592592593,-40.74,1.143679106,14.37
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190201,Obce OOCR,839,1720,48.78,0.971064815,-2.89,0.701164295,-29.88
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190301,Obce OOCR,829,1150,72.09,0.988081049,-1.19,1.477859779,47.79
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190401,Obce OOCR,1833,2467,74.3,2.211097708,121.11,1.030656124,3.07
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190501,Obce OOCR,4548,7229,62.91,2.481178396,148.12,0.846702557,-15.33
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190601,Obce OOCR,3226,9330,34.58,0.709322779,-29.07,0.549674138,-45.03
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190701,Obce OOCR,6627,23617,28.06,2.054246745,105.42,0.811451706,-18.85
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190801,Obce OOCR,18536,23333,79.44,2.797042402,179.7,2.831076265,183.11
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20190901,Obce OOCR,3093,7938,38.96,0.16686448,-83.31,0.490433031,-50.96
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20191001,Obce OOCR,1694,4897,34.59,0.547688328,-45.23,0.887833676,-11.22
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20191101,Obce OOCR,997,1579,63.14,0.588547816,-41.15,1.825383059,82.54
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20191201,Obce OOCR,914,1903,48.03,0.916750251,-8.32,0.760690529,-23.93
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200101,Obce OOCR,795,1669,47.63,0.869803063,-13.02,0.991671872,-0.83
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200201,Obce OOCR,1001,2135,46.89,1.259119497,25.91,0.984463573,-1.55
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200301,Obce OOCR,298,573,52.01,0.297702298,-70.23,1.109191725,10.92
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200501,Obce OOCR,26,48,54.17,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200601,Obce OOCR,308,1360,22.65,11.84615385,1084.62,0.418128115,-58.19
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200701,Obce OOCR,2768,14381,19.25,8.987012987,798.7,0.849889625,-15.01
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200801,Obce OOCR,3620,13583,26.65,1.307803468,30.78,1.384415584,38.44
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20200901,Obce OOCR,1715,4001,42.86,0.473756906,-52.62,1.608255159,60.83
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20201001,Obce OOCR,176,466,37.77,0.102623907,-89.74,0.881241251,-11.88
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20201101,Obce OOCR,70,274,25.55,0.397727273,-60.23,0.676462801,-32.35
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20201201,Obce OOCR,77,254,30.31,1.1,10,1.18630137,18.63
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210201,Obce OOCR,37,112,33.04,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210401,Obce OOCR,57,95,60,NULL,NULL,NULL,NULL
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210501,Obce OOCR,80,203,39.41,1.403508772,40.35,0.656833333,-34.32
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210601,Obce OOCR,272,1305,20.84,3.4,240,0.528799797,-47.12
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210701,Obce OOCR,1613,5306,30.4,5.930147059,493.01,1.458733205,45.87
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210801,Obce OOCR,2199,6020,36.53,1.363298202,36.33,1.201644737,20.16
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20210901,Obce OOCR,1518,3829,39.64,0.690313779,-30.97,1.085135505,8.51
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20211001,Obce OOCR,430,1050,40.95,0.283267457,-71.67,1.033047427,3.3
+PoÄet prenocovanÃ­ nÃ¡vÅ¡tevnÃ­kov spolu,ZahraniÄnÃ­ nÃ¡vÅ¡tevnÃ­ci,20211201,Obce OOCR,436,480,90.83,NULL,NULL,NULL,NULL
